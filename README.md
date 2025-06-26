@@ -173,51 +173,14 @@ You can now interact with the real-time chat app and start messaging!
 
 ---
 
-
-
-### 🤝 Contributing
-
-
-We welcome contributions from DevOps & Developer of all skill levels! Here's how you can contribute:
-
-**Report bugs:** If you encounter any bugs or issues, please open an issue with detailed information.
-**Suggest features:** Have an idea for a new feature? Open an issue to discuss it with the community.
-**Submit pull requests:** If you have a fix or a feature you'd like to contribute, submit a pull request. Ensure your changes pass any linting or tests, if applicable.
-
-### 🌐 Join the Community
-
-We invite you to join our community of developers and contributors. Let's work together to build an amazing real-time chat application!
-
-* **Star this repository** to show your support
-* **Fork this repository** to contribute to the project
-* **Open an issue** to report bugs or suggest features
-* **Submit a pull request** to contribute code changes
-
-## 🔮 Future Plans
-
-
-This project is evolving, and here are a few exciting things on the horizon:
-
-* [ ] **CI/CD Pipelines:** Implement Continuous Integration and Continuous Deployment pipelines to automate testing and deployment.
-* [ ] **Kubernetes (K8s):** Add Kubernetes manifests for container orchestration to deploy the app on cloud platforms like AWS, GCP, or Azure.
-* [ ] **Feature Expansion:** Add more features like group chats, media sharing, and user status updates.
-* **Stay tuned for updates as we continue to improve and expand this project!**
-
----
-
 ## 📚 Project Snapshots:
+
+![Screenshot 2025-06-26 142520](https://github.com/user-attachments/assets/696342ca-ddc6-48cc-bd6c-8d8d4cc052f2)
 
 ![Settings](frontend/public/settings.png)
 
-![chat](frontend/public/chat.png)
+![Screenshot 2025-06-26 124119](https://github.com/user-attachments/assets/e0b5e054-ebc7-4547-a580-310c408e6049)
 
-![logout](/frontend/public/logout.png)
+![Screenshot 2025-06-26 124453](https://github.com/user-attachments/assets/e71a98eb-f6a9-45da-b745-b20976e43403)
 
-![Login](/frontend/public/login.png)
-
-
-
-## 📜 License
-
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
+![Screenshot 2025-06-26 143120](https://github.com/user-attachments/assets/d8ff683c-f986-4083-8109-e9c1e181460d)
